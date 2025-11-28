@@ -22,7 +22,7 @@
 - Food on Ceiling
 
 ## MILD CONFLICT (Polite, but in italics)
-- Pie Sampler Aisle
+- Pie Sampling
 - Recipe Gatekeeping
 - Hoarding Leftovers
 - Pushing Leftovers

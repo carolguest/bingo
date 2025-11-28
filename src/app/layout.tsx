@@ -24,6 +24,7 @@ export const metadata: Metadata = {
     title: "Thanksgiving Bingo",
     description: "Bingo for your holidays. Like journaling, but with confetti.",
     type: "website",
+    siteName: "Thanksgiving Bingo",
     images: [turkeyIcon],
   },
   twitter: {
