@@ -21,22 +21,20 @@ export const THANKSGIVING_PHRASES = [
   "Legal Drug Use",
   "Illegal Drug Use",
   "Seltzers Abandoned",
-  "Food on Ceiling",
   
   // MILD CONFLICT (Polite, but in italics)
-  "Pie Sampler Aisle",
+  "Pie Sampling",
   "Recipe Gatekeeping",
   "Hoarding Leftovers",
   "Pushing Leftovers",
   "Backseat Cheffing",
   "Hot Flash",
   "Cast Iron Soap Debate",
-  "Dishwasher Loading Conflict",
+  "Dishwasher Loading Debate",
   "Unwanted Guest",
   
   // RECIPE & EATING BEHAVIORS (culinary anthropology)
   "Insufficient Serving Utensils",
-  "Too Much Food",
   "Refs NYT Cooking",
   "Refs ChatGPT",
   "\"Is Something Burning?\"",
@@ -45,6 +43,8 @@ export const THANKSGIVING_PHRASES = [
   "Landline Love",
   "Percentiles",
   "Outfit Too Festive",
+  "Non-Ironic Ugly Sweater",
+  "This is 40",
   
   // DEBATES, RANTS, AND MONOLOGUES (annual philosophical showdowns)
   "Metric System Rant",
@@ -54,9 +54,10 @@ export const THANKSGIVING_PHRASES = [
   "Micro-Plastics Debate",
   
   // MILLENNIAL ENERGY (the anxious middle children)
-  "Made Up Nickname",
+  "Defunct Nickname",
   "Browse Zillow",
   "Yawns at 5pm",
+  "Party Trick",
   
   // GEN ALPHA CHAOS (chaotic-neutral children)
   "\"Vibe-\"",

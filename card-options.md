@@ -19,7 +19,6 @@
 - Legal Drug Use
 - Illegal Drug Use
 - Seltzers Abandoned
-- Food on Ceiling
 
 ## MILD CONFLICT (Polite, but in italics)
 - Pie Sampling
@@ -29,12 +28,11 @@
 - Backseat Cheffing
 - Hot Flash
 - Cast Iron Soap Debate
-- Dishwasher Loading Conflict
+- Dishwasher Loading Debate
 - Unwanted Guest
 
 ## RECIPE & EATING BEHAVIORS (culinary anthropology)
 - Insufficient Serving Utensils
-- Too Much Food
 - Refs NYT Cooking
 - Refs ChatGPT
 - "Is Something Burning?"
@@ -43,6 +41,8 @@
 - Landline Love
 - Percentiles
 - Outfit Too Festive
+- Non-Ironic Ugly Sweater
+- This is 40
 
 
 ## DEBATES, RANTS, AND MONOLOGUES (annual philosophical showdowns)
@@ -51,11 +51,13 @@
 - Home Reno Shop Talk
 - ADHD Diagnosis
 - Micro-Plastics Debate
+- 
 
 ## MILLENNIAL ENERGY (the anxious middle children)
-- Made Up Nickname
+- Defunct Nickname
 - Browse Zillow
 - Yawns at 5pm
+- Party Trick
 
 ## GEN ALPHA CHAOS (chaotic-neutral children)
 - "Vibe-"
