@@ -1,0 +1,9 @@
+services:
+  - type: web
+    name: bingo
+    runtime: node
+    buildCommand: npm install && npm run build
+    startCommand: npm start
+    plan: starter
+    region: oregon
+
