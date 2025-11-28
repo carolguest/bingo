@@ -12,7 +12,6 @@ export const THANKSGIVING_PHRASES = [
   "Sous Vide Flex",
   
   // FOOD & TABLE CHAOS (AKA "shared humanity")
-  "Loud Chomping",
   "Hearing Aid Reverb",
   "Dog Chaos",
   "Mid-Meal Nap",
@@ -20,25 +19,23 @@ export const THANKSGIVING_PHRASES = [
   "Lost Phone",
   "Legal Drug Use",
   "Illegal Drug Use",
-  "Seltzers abandoned",
-  "Children horde",
-  "Lefty horde",
-  "Food on ceiling",
+  "Seltzers Abandoned",
+  "Food on Ceiling",
   
   // MILD CONFLICT (Polite, but in italics)
-  "Pie favoritism",
-  "Recipe gatekeeping",
-  "Hoarding leftovers",
-  "Pushing leftovers",
-  "Backseat cheffing",
-  "Room temp oscillates",
-  "Cast iron soap debate",
-  "Dishwasher loading debate",
-  "Unwanted guest",
+  "Pie Sampling",
+  "Recipe Gatekeeping",
+  "Hoarding Leftovers",
+  "Pushing Leftovers",
+  "Backseat Cheffing",
+  "Hot Flash",
+  "Cast Iron Soap Debate",
+  "Dishwasher Loading Conflict",
+  "Unwanted Guest",
   
   // RECIPE & EATING BEHAVIORS (culinary anthropology)
   "Insufficient Serving Utensils",
-  "It's So Easy (Not Easy)",
+  "Too Much Food",
   "Refs NYT Cooking",
   "Refs ChatGPT",
   "\"Is Something Burning?\"",
@@ -46,31 +43,34 @@ export const THANKSGIVING_PHRASES = [
   // COMMON CONVERSATION TOPICS (the 2025 small-talk starter kit)
   "Landline Love",
   "Percentiles",
+  "Outfit Too Festive",
+  "Noah Kahan Flex",
   
   // DEBATES, RANTS, AND MONOLOGUES (annual philosophical showdowns)
-  "Atheism Rant",
   "Metric System Rant",
   "Marathon Shop Talk",
   "Home Reno Shop Talk",
   
   // MILLENNIAL ENERGY (the anxious middle children)
   "Assess Name Popularity",
-  "Discuss School Quality",
+  "School Quality Review",
   "Browse Zillow",
+  "Browse Insta",
   "Yawns at 5pm",
+  "Checks Watch",
   
   // GEN ALPHA CHAOS (chaotic-neutral children)
   "\"Vibe-\"",
   "Brain Rot",
   
   // BOOMER ENERGY (the greatest generation's children)
-  "Protest Glory Recap",
+  "Protest Glory",
   "New Hip or Knee Update",
   "Loud Speaker Phone",
   "Unsolicited Slideshow",
   
   // RECAPS (cultural retellings of variable accuracy)
   "Reenact SNL",
-  "Retell Stand-Up",
+  "Retell Sheng Wang",
   "Recap Anxious Generation",
 ];
