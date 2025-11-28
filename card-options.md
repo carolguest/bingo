@@ -10,19 +10,18 @@
 - Sous Vide Flex
 
 ## FOOD & TABLE CHAOS (AKA "shared humanity")
-- Loud chomping
-- Hearing aid reverb
-- Dog chaos
-- Someone's late
-- Naps mid-meal
-- Reading phone in bathroom
-- Lost phone
-- Legal drug use
-- Illegal drug use
+- Loud Chomping
+- Hearing Aid Reverb
+- Dog Chaos
+- Mid-Meal Nap
+- Bathroom Phone Break
+- Lost Phone
+- Legal Drug Use
+- Illegal Drug Use
 - Seltzers abandoned
-- Children form a horde
-- Something breaks
-- Food on upholstery
+- Children horde
+- Lefty horde
+- Food on ceiling
 
 ## MILD CONFLICT (Polite, but in italics)
 - Pie favoritism
@@ -33,29 +32,28 @@
 - Room temp oscillates
 - Cast iron soap debate
 - Dishwasher loading debate
-- Uninvited guest
+- Unwanted guest
 
 ## RECIPE & EATING BEHAVIORS (culinary anthropology)
-- Insufficient serving utensils
-- It's was so easy (not easy)
+- Insufficient Serving Utensils
+- It's So Easy (Not Easy)
 - Refs NYT Cooking
-- Recipe from ChatGPT
-- "Is something burning?"
+- Refs ChatGPT
+- "Is Something Burning?"
 
 ## COMMON CONVERSATION TOPICS (the 2025 small-talk starter kit)
-- Landline love
-- Kid percentiles questioned
+- Landline Love
+- Percentiles
 
 ## DEBATES, RANTS, AND MONOLOGUES (annual philosophical showdowns)
-- Atheism rant
-- Metric System rant
-- Marathon Training shop talk
-- Home reno shop talk
-- Lefties form a horde
+- Atheism Rant
+- Metric System Rant
+- Marathon Shop Talk
+- Home Reno Shop Talk
 
 ## MILLENNIAL ENERGY (the anxious middle children)
-- Assess name popularity
-- Discuss school quality
+- Assess Name Popularity
+- Discuss School Quality
 - Browse Zillow
 - Yawns at 5pm
 
@@ -65,12 +63,12 @@
 
 
 ## BOOMER ENERGY (the greatest generation's children)
-- Protest glory
-- New hip or knee update
-- Yells into phone
-- Unsolicited slideshow
+- Protest Glory Recap
+- New Hip or Knee Update
+- Loud Speaker Phone
+- Unsolicited Slideshow
 
 ## RECAPS (cultural retellings of variable accuracy)
-- Reenact SNL sketch
-- Retell stand-up joke
+- Reenact SNL
+- Retell Stand-Up
 - Recap Anxious Generation
