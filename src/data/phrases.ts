@@ -13,51 +13,49 @@ export const THANKSGIVING_PHRASES = [
   
   // FOOD & TABLE CHAOS (AKA "shared humanity")
   "loud chomping",
-  "\"what?\"",
   "hearing aid reverb",
   "dog chaos",
   "someone's late",
   "naps mid-meal",
-  "long bathroom break",
+  "currently in bathroom",
   "lost phone",
   "legal drug use",
   "illegal drug use",
   "seltzers abandoned",
   "children form a horde",
   "something breaks",
-  "food on furniture",
+  "food on upholstery",
   
   // MILD CONFLICT (Polite, but in italics)
   "pie favoritism",
   "recipe gatekeeping",
   "leftover negotiations",
+  "leftover pushing",
   "backseat cheffing",
   "room temp fluctuates",
   "cast iron cleaning controversy",
   "dishwasher loading debate",
-  "unknown guest",
+  "uninvited guest",
   
   // RECIPE & EATING BEHAVIORS (culinary anthropology)
-  "missing utensils",
-  "\"it's so easy to make\"",
+  "insufficient serving utensils",
+  "it's was so easy (not easy)",
   "nyt cooking",
-  "\"what's that smell?\"",
-  "needs salt",
+  "\"is something burning?\"",
   
   // COMMON CONVERSATION TOPICS (the 2025 small-talk starter kit)
   "landline love",
-  "kids have grown",
-  "ozempic",
+  "kid percentiles",
   "chatgpt",
   "hallucination",
   "horoscopes",
   
   // DEBATES, RANTS, AND MONOLOGUES (annual philosophical showdowns)
-  "atheist rant",
+  "atheism rant",
   "metric system rant",
-  "marathon training monologue",
-  "home renovation monologue",
-  "lefthandedness discussion",
+  "marathon training shop talk",
+  "home renovation shop talk",
+  "lefties form a horde",
   
   // MILLENNIAL ENERGY (the anxious middle children)
   "name popularity analysis",
@@ -66,21 +64,18 @@ export const THANKSGIVING_PHRASES = [
   "yawns at 5pm",
   
   // GEN ALPHA CHAOS (chaotic-neutral children)
-  "67",
   "\"vibe\" anything",
   "brain rot",
   
   // BOOMER ENERGY (the greatest generation's children)
-  "\"nobody protests anymore\"",
+  "pro protest rant",
   "new hip or knee update",
-  "printed recipe",
-  "loud speakerphone",
-  "phone photo reveal",
-  "doctor appointment recap",
+  "yelling into speakerphone",
+  "phone slideshow",
   
   // RECAPS (cultural retellings of variable accuracy)
   "snl sketch reenactment",
   "stand-up joke retelling",
-  "in-depth podcast recap",
+  "podcast recap",
   "anxious generation recap",
 ];

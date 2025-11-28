@@ -5,5 +5,5 @@ services:
     buildCommand: npm install && npm run build
     startCommand: npm start
     plan: starter
-    region: oregon
+    region: virginia
 

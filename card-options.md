@@ -11,51 +11,49 @@
 
 ## FOOD & TABLE CHAOS (AKA "shared humanity")
 - Loud chomping
-- "What?"
 - Hearing aid reverb
 - Dog chaos
 - Someone's late
 - Naps mid-meal
-- Long bathroom break
+- Currently in bathroom
 - Lost phone
 - Legal drug use
 - Illegal drug use
 - Seltzers abandoned
 - Children form a horde
 - Something breaks
-- Food on furniture
+- Food on upholstery
 
 ## MILD CONFLICT (Polite, but in italics)
 - Pie favoritism
 - Recipe gatekeeping
 - Leftover negotiations
+- Leftover pushing
 - Backseat cheffing
 - Room temp fluctuates
 - Cast iron cleaning controversy
 - Dishwasher loading debate
-- Unknown guest
+- Uninvited guest
 
 ## RECIPE & EATING BEHAVIORS (culinary anthropology)
-- Missing utensils
-- "It's so easy to make"
+- Insufficient serving utensils
+- It's was so easy (not easy)
 - NYT Cooking
-- "What's that smell?"
-- Needs salt
+- "Is something burning?"
 
 ## COMMON CONVERSATION TOPICS (the 2025 small-talk starter kit)
-- Landline Love
-- Kids Have Grown
-- Ozempic
+- Landline love
+- Kid percentiles
 - ChatGPT
 - Hallucination
 - Horoscopes
 
 ## DEBATES, RANTS, AND MONOLOGUES (annual philosophical showdowns)
-- Atheist Rant
-- Metric System Rant
-- Marathon Training Monologue
-- Home renovation monologue
-- Lefthandedness discussion
+- Atheism rant
+- Metric System rant
+- Marathon Training shop talk
+- Home renovation shop talk
+- Lefties form a horde
 
 ## MILLENNIAL ENERGY (the anxious middle children)
 - Name popularity analysis
@@ -64,21 +62,18 @@
 - Yawns at 5pm
 
 ## GEN ALPHA CHAOS (chaotic-neutral children)
-- 67
 - "Vibe" anything
 - Brain Rot
 
 
 ## BOOMER ENERGY (the greatest generation's children)
-- "Nobody protests anymore"
+- Pro protest rant
 - New hip or knee update
-- Printed recipe
-- Loud speakerphone
-- Phone photo reveal
-- Doctor appointment recap
+- Yelling into speakerphone
+- Phone slideshow
 
 ## RECAPS (cultural retellings of variable accuracy)
 - SNL sketch reenactment
 - Stand-up joke retelling
-- In-depth podcast recap
+- Podcast recap
 - Anxious Generation recap

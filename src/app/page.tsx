@@ -72,9 +72,7 @@ export default function Home() {
         toast.custom((t) => (
           <div
             onClick={() => toast.dismiss(t)}
-            className={`bg-gradient-to-r from-pink-500 to-fuchsia-500 text-white px-6 py-4 rounded-lg shadow-lg flex items-center gap-3 cursor-pointer transition-all ${
-              t.visible ? 'animate-in slide-in-from-top-5' : 'animate-out slide-out-to-top-5'
-            }`}
+            className="bg-gradient-to-r from-pink-500 to-fuchsia-500 text-white px-6 py-4 rounded-lg shadow-lg flex items-center gap-3 cursor-pointer transition-all animate-in slide-in-from-top-5"
           >
             <span className="text-2xl">🦄✨</span>
             <span className="font-bold text-lg">BINGO!</span>
