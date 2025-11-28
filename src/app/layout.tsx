@@ -12,11 +12,25 @@ const geistMono = Geist_Mono({
   subsets: ["latin"],
 });
 
+const turkeyIcon = "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🦃</text></svg>";
+
 export const metadata: Metadata = {
   title: "Thanksgiving Bingo",
-  description: "Play Thanksgiving Bingo with common phrases and things you'll hear on Thanksgiving",
+  description: "Bingo for your holidays. Like journaling, but with confetti.",
   icons: {
-    icon: "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🦃</text></svg>",
+    icon: turkeyIcon,
+  },
+  openGraph: {
+    title: "Thanksgiving Bingo",
+    description: "Bingo for your holidays. Like journaling, but with confetti.",
+    type: "website",
+    images: [turkeyIcon],
+  },
+  twitter: {
+    card: "summary",
+    title: "Thanksgiving Bingo",
+    description: "Bingo for your holidays. Like journaling, but with confetti.",
+    images: [turkeyIcon],
   },
 };
 

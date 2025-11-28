@@ -10,6 +10,7 @@ export const THANKSGIVING_PHRASES = [
   "Induction Oven Flex",
   "Bidet Flex",
   "Sous Vide Flex",
+  "Noah Kahan Flex",
   
   // FOOD & TABLE CHAOS (AKA "shared humanity")
   "Hearing Aid Reverb",
@@ -23,7 +24,7 @@ export const THANKSGIVING_PHRASES = [
   "Food on Ceiling",
   
   // MILD CONFLICT (Polite, but in italics)
-  "Pie Sampling",
+  "Pie Sampler Aisle",
   "Recipe Gatekeeping",
   "Hoarding Leftovers",
   "Pushing Leftovers",
@@ -44,33 +45,31 @@ export const THANKSGIVING_PHRASES = [
   "Landline Love",
   "Percentiles",
   "Outfit Too Festive",
-  "Noah Kahan Flex",
   
   // DEBATES, RANTS, AND MONOLOGUES (annual philosophical showdowns)
   "Metric System Rant",
   "Marathon Shop Talk",
   "Home Reno Shop Talk",
+  "ADHD Diagnosis",
+  "Micro-Plastics Debate",
   
   // MILLENNIAL ENERGY (the anxious middle children)
-  "Assess Name Popularity",
-  "School Quality Review",
+  "Made Up Nickname",
   "Browse Zillow",
-  "Browse Insta",
   "Yawns at 5pm",
-  "Checks Watch",
   
   // GEN ALPHA CHAOS (chaotic-neutral children)
   "\"Vibe-\"",
   "Brain Rot",
   
   // BOOMER ENERGY (the greatest generation's children)
-  "Protest Glory",
+  "Boomer Protest Glory",
   "New Hip or Knee Update",
   "Loud Speaker Phone",
   "Unsolicited Slideshow",
   
   // RECAPS (cultural retellings of variable accuracy)
   "Reenact SNL",
-  "Retell Sheng Wang",
+  "Retell Stand Up Joke",
   "Recap Anxious Generation",
 ];
