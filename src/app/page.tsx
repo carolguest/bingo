@@ -22,7 +22,7 @@ export default function Home() {
   });
   const [winningPatterns, setWinningPatterns] = useState<BingoPattern[]>([]);
   const [showAnimation, setShowAnimation] = useState(false);
-  const [hasWon, setHasWon] = useState(false);
+  const [celebratedPatterns, setCelebratedPatterns] = useState<Set<string>>(new Set());
 
   // Generate new card on mount
   useEffect(() => {
@@ -39,7 +39,7 @@ export default function Home() {
     newMarked[2][2] = true; // Center is FREE
     setMarked(newMarked);
     setWinningPatterns([]);
-    setHasWon(false);
+    setCelebratedPatterns(new Set());
     setShowAnimation(false);
   }, []);
 
@@ -57,36 +57,67 @@ export default function Home() {
     []
   );
 
+  // Helper to create a unique key for a pattern
+  const getPatternKey = (pattern: BingoPattern): string => {
+    if (pattern.type === "row") return `row-${pattern.index}`;
+    if (pattern.type === "column") return `col-${pattern.index}`;
+    if (pattern.type === "diagonal") return `diag-${pattern.direction}`;
+    return "";
+  };
+
   // Check for bingo after marked squares change
   useEffect(() => {
     if (!card) return;
 
     const patterns = checkForBingo(card, marked);
     
-    if (patterns.length > 0 && !hasWon) {
-      setWinningPatterns(patterns);
-      setHasWon(true);
-      setShowAnimation(true);
-      // Show toast after a short delay
-      setTimeout(() => {
-        toast.custom((t) => (
-          <div
-            onClick={() => toast.dismiss(t)}
-            className="bg-gradient-to-r from-pink-500 to-fuchsia-500 text-white px-6 py-4 rounded-lg shadow-lg flex items-center gap-3 cursor-pointer transition-all animate-in slide-in-from-top-5"
-          >
-            <span className="text-2xl">🦄✨</span>
-            <span className="font-bold text-lg">BINGO!</span>
-            <span className="text-2xl">✨🦄</span>
-          </div>
-        ), {
-          duration: 5000,
-        });
-      }, 500);
-    } else if (patterns.length === 0) {
+    if (patterns.length > 0) {
+      // Find new patterns that haven't been celebrated yet
+      setCelebratedPatterns((prevCelebrated) => {
+        const newPatterns = patterns.filter(
+          (pattern) => !prevCelebrated.has(getPatternKey(pattern))
+        );
+
+        if (newPatterns.length > 0) {
+          // Update winning patterns (keep all, including previously celebrated ones)
+          setWinningPatterns(patterns);
+          
+          // Mark new patterns as celebrated
+          const updated = new Set(prevCelebrated);
+          newPatterns.forEach((pattern) => {
+            updated.add(getPatternKey(pattern));
+          });
+
+          // Trigger animation and toast for new bingos
+          setShowAnimation(true);
+          setTimeout(() => {
+            toast.custom((t) => (
+              <div
+                onClick={() => toast.dismiss(t)}
+                className="bg-gradient-to-r from-pink-500 to-fuchsia-500 text-white px-6 py-4 rounded-lg shadow-lg flex items-center gap-3 cursor-pointer transition-all animate-in slide-in-from-top-5"
+              >
+                <span className="text-2xl">🦄✨</span>
+                <span className="font-bold text-lg">BINGO!</span>
+                <span className="text-2xl">✨🦄</span>
+              </div>
+            ), {
+              duration: 5000,
+            });
+          }, 500);
+
+          return updated;
+        } else {
+          // Update winning patterns even if no new ones (in case user unmarks and remarks)
+          setWinningPatterns(patterns);
+          return prevCelebrated;
+        }
+      });
+    } else {
+      // No patterns found, reset everything
       setWinningPatterns([]);
-      setHasWon(false);
+      setCelebratedPatterns(new Set());
     }
-  }, [marked, card, hasWon]);
+  }, [marked, card]);
 
   const handleShare = useCallback(() => {
     if (navigator.share) {

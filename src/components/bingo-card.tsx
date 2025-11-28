@@ -105,7 +105,7 @@ export function BingoCard({
                 "flex items-center justify-center",
                 "touch-manipulation active:scale-95",
                 "select-none",
-                "break-words",
+                "break-words hyphens-auto",
                 isCenter
                   ? "bg-gradient-to-br from-fuchsia-500 to-pink-600 border-fuchsia-400 cursor-default"
                   : isMarked
@@ -116,7 +116,10 @@ export function BingoCard({
               style={{
                 overflowWrap: "break-word",
                 wordBreak: "break-word",
-              }}
+                hyphens: "auto",
+                WebkitHyphens: "auto",
+                msHyphens: "auto",
+              } as React.CSSProperties}
               disabled={isCenter}
             >
               <span

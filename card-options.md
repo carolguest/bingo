@@ -15,7 +15,7 @@
 - Dog chaos
 - Someone's late
 - Naps mid-meal
-- Currently in bathroom
+- Reading phone in bathroom
 - Lost phone
 - Legal drug use
 - Illegal drug use
@@ -27,53 +27,50 @@
 ## MILD CONFLICT (Polite, but in italics)
 - Pie favoritism
 - Recipe gatekeeping
-- Leftover negotiations
-- Leftover pushing
+- Hoarding leftovers
+- Pushing leftovers
 - Backseat cheffing
-- Room temp fluctuates
-- Cast iron cleaning controversy
+- Room temp oscillates
+- Cast iron soap debate
 - Dishwasher loading debate
 - Uninvited guest
 
 ## RECIPE & EATING BEHAVIORS (culinary anthropology)
 - Insufficient serving utensils
 - It's was so easy (not easy)
-- NYT Cooking
+- Refs NYT Cooking
+- Recipe from ChatGPT
 - "Is something burning?"
 
 ## COMMON CONVERSATION TOPICS (the 2025 small-talk starter kit)
 - Landline love
-- Kid percentiles
-- ChatGPT
-- Hallucination
-- Horoscopes
+- Kid percentiles questioned
 
 ## DEBATES, RANTS, AND MONOLOGUES (annual philosophical showdowns)
 - Atheism rant
 - Metric System rant
 - Marathon Training shop talk
-- Home renovation shop talk
+- Home reno shop talk
 - Lefties form a horde
 
 ## MILLENNIAL ENERGY (the anxious middle children)
-- Name popularity analysis
-- School quality analysis
-- Zillow browsing
+- Assess name popularity
+- Discuss school quality
+- Browse Zillow
 - Yawns at 5pm
 
 ## GEN ALPHA CHAOS (chaotic-neutral children)
-- "Vibe" anything
+- "Vibe-"
 - Brain Rot
 
 
 ## BOOMER ENERGY (the greatest generation's children)
-- Pro protest rant
+- Protest glory
 - New hip or knee update
-- Yelling into speakerphone
-- Phone slideshow
+- Yells into phone
+- Unsolicited slideshow
 
 ## RECAPS (cultural retellings of variable accuracy)
-- SNL sketch reenactment
-- Stand-up joke retelling
-- Podcast recap
-- Anxious Generation recap
+- Reenact SNL sketch
+- Retell stand-up joke
+- Recap Anxious Generation
