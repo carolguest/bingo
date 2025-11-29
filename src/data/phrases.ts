@@ -7,14 +7,11 @@ export const THANKSGIVING_PHRASES = [
   "Solar Panel Flex",
   "BYO Slippers Flex",
   "Cozy Socks Flex",
-  "Induction Oven Flex",
-  "Bidet Flex",
-  "Sous Vide Flex",
-  "Noah Kahan Flex",
+  "Noah Kahan Stan",
   
   // FOOD & TABLE CHAOS (AKA "shared humanity")
   "Hearing Aid Reverb",
-  "Dog Chaos",
+  "Dog Counter Surfs",
   "Mid-Meal Nap",
   "Bathroom Phone Break",
   "Lost Phone",
@@ -23,7 +20,7 @@ export const THANKSGIVING_PHRASES = [
   "Seltzers Abandoned",
   
   // MILD CONFLICT (Polite, but in italics)
-  "Pie Sampling",
+  "Pie Favoritism",
   "Recipe Gatekeeping",
   "Hoarding Leftovers",
   "Pushing Leftovers",
@@ -36,35 +33,38 @@ export const THANKSGIVING_PHRASES = [
   // RECIPE & EATING BEHAVIORS (culinary anthropology)
   "Insufficient Serving Utensils",
   "Refs NYT Cooking",
-  "Refs ChatGPT",
-  "\"Is Something Burning?\"",
+  "\"What's Burning?\"",
   
   // COMMON CONVERSATION TOPICS (the 2025 small-talk starter kit)
   "Landline Love",
   "Percentiles",
   "Outfit Too Festive",
-  "Non-Ironic Ugly Sweater",
+  "Turkey Decor",
   "This is 40",
+  "Paint Colors",
+  "AI Panic",
+  "Kid Comparison",
   
   // DEBATES, RANTS, AND MONOLOGUES (annual philosophical showdowns)
   "Metric System Rant",
-  "Marathon Shop Talk",
+  "Explains Diet",
+  "Uncle Explains Science",
   "Home Reno Shop Talk",
   "ADHD Diagnosis",
   "Micro-Plastics Debate",
   
   // MILLENNIAL ENERGY (the anxious middle children)
-  "Defunct Nickname",
+  "Nickname Revival",
   "Browse Zillow",
   "Yawns at 5pm",
   "Party Trick",
   
   // GEN ALPHA CHAOS (chaotic-neutral children)
   "\"Vibe-\"",
-  "Brain Rot",
+  "Group Song",
   
   // BOOMER ENERGY (the greatest generation's children)
-  "Boomer Protest Glory",
+  "Protest Glory",
   "New Hip or Knee Update",
   "Loud Speaker Phone",
   "Unsolicited Slideshow",
