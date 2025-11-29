@@ -26,12 +26,13 @@
 - Hot Flash
 - Cast Iron Soap Debate
 - Dishwasher Loading Debate
-- Unwanted Guest
+- Strange Guest
 
 ## RECIPE & EATING BEHAVIORS (culinary anthropology)
 - Insufficient Serving Utensils
 - Refs NYT Cooking
-- "What's Burning?"
+- Found on Wirecutter
+- What's Burning?
 
 ## COMMON CONVERSATION TOPICS (the 2025 small-talk starter kit)
 - Landline Love
